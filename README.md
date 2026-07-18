@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulkadir337&label=Profile%20views&color=0e75b6&style=flat" alt="abdulkadir337" /> </p>
 
-- 🔭 I’m currently working on **Hi-Link LD2410C Radar Module - Human / Presence Detection System**
+- 🔭 I’m currently working on **Hi-Link LD2410C Radar Module - Human / Presence Detection System & **CPH Airport - Rogue AP / Evil Twin Detection System** **
 
 - 🌱 I’m currently learning **Networking, Programming, Electronics**
 
